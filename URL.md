@@ -14,3 +14,4 @@ Une URL (Uniform Resource Locator) permet d'identifier une ressource (par exempl
 
 L'URL indique « l'endroit » où se trouve une ressource sur un ordinateur. Un fichier peut se trouver dans un dossier qui peut lui-même se trouver dans un autre dossier... On parle d'une structure en arborescence, car elle ressemble à un arbre à l'envers :
 
+![URL photo](./url.png)
