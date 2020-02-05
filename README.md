@@ -4,4 +4,4 @@
 Sommaire
 --
 
-- [Le Web] (./WEB/SOMMAIRE.md)
+- [Le Web](./WEB/SOMMAIRE.md)
