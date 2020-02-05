@@ -18,4 +18,4 @@ Une chose très importante à bien avoir à l'esprit : Il ne faut pas confondre 
 ---
 ---
 ---
-# [Page suivante](./URL.md)
+# [Leçon suivante : URL](./URL.md)
