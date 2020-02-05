@@ -9,6 +9,7 @@ La première page web est toujours consultable à l'adresse suivante : http://in
 
 Techniquement le web se base sur trois choses : le protocole HTTP (HyperText Transfert Protocol), les URL (Uniform Resource Locator) et le langage de description HTML (HyperText Markup Language). Nous aurons, très prochainement l'occasion de revenir sur ces trois éléments. 
 
----
+Une chose très importante à bien avoir à l'esprit : Il ne faut pas confondre "web" et "internet". Même si le "web" "s'appuie" sur internet, les deux choses n'ont rien à voir. Internet est le "réseau de réseau" s'appuyant sur les protocole IP, TCP. Alors que, comme nous venons de le voir, le web est la combinaison de trois technologies : HTTP, URL et HTML. On trouve autre chose que le "web" sur internet, par exemple, les emails avec le protocole SMTP et les transferts de fichiers avec le protocole FTP. 
+
 
 # 📺 [Presentation - Introduction](./index.html)
