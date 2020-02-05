@@ -1,3 +1,7 @@
 
+# Bienvenu sur le site de SNT de classe de seconde
 
-s
+Sommaire
+--
+
+- [Le Web] (./WEB/SOMMAIRE.md)
