@@ -17,5 +17,9 @@ Une URL a une structure en arborescence : Un fichier peut se trouver dans un dos
 
 ![image URL](./url.png)
 
-Il existe 2 moyens pour accéder à un document 
+la base de l’arbre s’appelle la racine de l’arborescence et se représente par un /
+
+Il existe 2 moyens pour accéder à un document :
+- Le chemin absolu, il indique « le chemin » depuis la racine
+- Le chemin relatif, il indique « le chemin » depuis la position actuelle de l'utilisateur 
 
