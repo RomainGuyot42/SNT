@@ -15,5 +15,7 @@ Le chemin : /SNT/WEB/URL.html
 
 Une URL a une structure en arborescence : Un fichier peut se trouver dans un dossier qui peut lui-même se trouver dans un autre dossier.
 
+! [image URL](./url.png)
+
 Il existe 2 moyens pour accéder à un document 
 
