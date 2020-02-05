@@ -32,4 +32,9 @@ Imaginons maintenant que le fichier fichier1.css fasse appel au fichier fichier3
 dossier3/fichier3.jpg
   
 Remarquez l’absence du / au début du chemin (c'est cela qui nous permettra de distinguer un chemin relatif et un chemin absolu).  
+  
+  
+---
+---
+# [Exercices](https://forms.gle/KBHieM7VmRKu5Xep7)
 
