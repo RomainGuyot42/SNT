@@ -1,6 +1,6 @@
 
 
 # Le Web
-- Seconde SNT
+== Seconde SNT
 
 text
