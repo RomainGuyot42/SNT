@@ -2,5 +2,9 @@
 
 # Le Web SNT Seconde
 
-- [Introduction](./INTRO.md)
+Bienvenu sur la page principale du Chapitre Web de SNT
+--
+
+- [Introduction](./INTRO.md)  
+  
 - [URL](./URL.md)
