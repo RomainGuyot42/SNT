@@ -7,5 +7,7 @@ Bienvenu sur la page principale du Chapitre Web de SNT
 - [Introduction](./INTRO.md)  
   
 - [URL](./URL.md)
+
+- [Bilan URL](./BILAN_URL.md)
   
 - [Requête HTTP](./REQUETE.md)
