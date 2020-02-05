@@ -24,6 +24,6 @@ const me = {
 
 # This course
 
-```
+---
 
-### 📺 [Presentation - Introduction](./index.html)
+# 📺 [Presentation - Introduction](./index.html)
