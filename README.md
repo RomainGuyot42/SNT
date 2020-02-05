@@ -8,7 +8,7 @@ Le "World Wide Web", (« toile (d’araignée) mondiale »), plus communément a
 La première page web est toujours consultable à l'adresse suivante : 
 
 
-* [Premier site](http://info.cern.ch/hypertext/WWW/TheProject.html)
+* [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 Techniquement le web se base sur trois choses : le protocole HTTP (HyperText Transfert Protocol), les URL (Uniform Resource Locator) et le langage de description HTML (HyperText Markup Language). Nous aurons, très prochainement l'occasion de revenir sur ces trois éléments. 
 
