@@ -14,8 +14,7 @@ Techniquement le web se base sur trois choses : le protocole HTTP (HyperText Tra
 Une chose très importante à bien avoir à l'esprit : Il ne faut pas confondre "web" et "internet". Même si le "web" "s'appuie" sur internet, les deux choses n'ont rien à voir. Internet est le "réseau de réseau" s'appuyant sur les protocole IP, TCP. Alors que, comme nous venons de le voir, le web est la combinaison de trois technologies : HTTP, URL et HTML. On trouve autre chose que le "web" sur internet, par exemple, les emails avec le protocole SMTP et les transferts de fichiers avec le protocole FTP. 
 
 # 📺 [Quizz](https://forms.gle/YENSsKEgzKZpXeFu5)
+  
 ---
----
----
----
+  
 # [Leçon suivante : URL](./URL.md)
