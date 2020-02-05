@@ -33,6 +33,6 @@ Remarquez l’absence du / au début du chemin (c'est cela qui nous permettra de
   
   
 ---
----
+  
 # [Exercices](https://forms.gle/KBHieM7VmRKu5Xep7)
 
