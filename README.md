@@ -26,4 +26,4 @@ const me = {
 
 ```
 
-### 📺 [Presentation - Introduction](index.html)
+### 📺 [Presentation - Introduction](./index.html)
