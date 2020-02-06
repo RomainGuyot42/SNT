@@ -7,8 +7,12 @@ Le "World Wide Web", (« toile (d’araignée) mondiale »), plus communément a
 La première page web est toujours consultable à l'adresse suivante : 
 
 
-* [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
-
+* [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)  
+  
+Une fois le premier site internet visité vous pouvez le voir dans sa version originale grave à un émulateur  
+  
+* [http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html](http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html)
+  
 Techniquement le web se base sur trois choses : le protocole HTTP (HyperText Transfert Protocol), les URL (Uniform Resource Locator) et le langage de description HTML (HyperText Markup Language). Nous aurons, très prochainement l'occasion de revenir sur ces trois éléments. 
 
 Une chose très importante à bien avoir à l'esprit : Il ne faut pas confondre "web" et "internet". Même si le "web" "s'appuie" sur internet, les deux choses n'ont rien à voir. Internet est le "réseau de réseau" s'appuyant sur les protocole IP, TCP. Alors que, comme nous venons de le voir, le web est la combinaison de trois technologies : HTTP, URL et HTML. On trouve autre chose que le "web" sur internet, par exemple, les emails avec le protocole SMTP et les transferts de fichiers avec le protocole FTP. 
