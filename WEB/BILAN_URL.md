@@ -22,4 +22,7 @@ la base de l’arbre s’appelle la racine de l’arborescence et se représente
 Il existe 2 moyens pour accéder à un document :
 - Le chemin absolu, il indique « le chemin » depuis la racine
 - Le chemin relatif, il indique « le chemin » depuis la position actuelle de l'utilisateur 
-
+  
+---
+  
+# [URL pour aller plus loin](./URL_PLUS_LOIN.md)
