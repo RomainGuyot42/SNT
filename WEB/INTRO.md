@@ -9,7 +9,7 @@ La première page web est toujours consultable à l'adresse suivante :
 
 * [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)  
   
-Une fois le premier site internet visité vous pouvez le voir dans sa version originale grave à un émulateur  
+Une fois le premier site internet visité vous pouvez le voir dans sa version originale grace à un émulateur  
   
 * [http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html](http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html)
   
