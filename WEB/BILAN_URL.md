@@ -1,8 +1,11 @@
+
+# Bilan URL  
+  
 ---
 # A Noter dans le cours
 ---
-  
-# Bilan URL
+# Le web
+# URL 
 
 L'URL se décompose en 3 parties :
 - Le protocole
