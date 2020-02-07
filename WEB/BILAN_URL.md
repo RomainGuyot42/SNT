@@ -1,4 +1,7 @@
-
+---
+# A Noter dans le cours
+---
+  
 # Bilan URL
 
 L'URL se décompose en 3 parties :
