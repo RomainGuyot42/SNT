@@ -14,4 +14,4 @@ Les paramètres sont données supplémentaires fournis au serveur web. Ces param
   
 Une ancre, désigne un endroit donnée dans la ressource, cela permet d'afficher une page à un endroit précis de celle-ci  
   
-# [Exercices](./URL_PL_EX.md)
+# [Exercices](https://forms.gle/KzZQqJLWw69Z14x89)
