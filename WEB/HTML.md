@@ -25,14 +25,14 @@ Une balise fermante doit avoir le même nom que la balise ouvrante, une balise f
 exemple :
   ````html
   <h1></h1> 
-
+  ````
 Il est important de savoir qu'une structure du type :
   ````html
 <balise1>
 <balise2>
 </balise1>
 </balise2>
-
+  ````
 est interdite, la balise2 a été ouverte après la balise1, elle devra donc être refermée avant la balise1.
 
 La structure suivant est correct :
@@ -41,3 +41,4 @@ La structure suivant est correct :
 <balise2>
 </balise2>
 </balise1>
+  ````
