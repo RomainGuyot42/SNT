@@ -12,7 +12,6 @@ Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur
   <body>
   </body>
 </html>
-  
   ````
 
 ---
