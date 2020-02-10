@@ -1,17 +1,21 @@
 # Exercices
 
-Dans votre navigateur web, allez sur http://jsfiddle.net/
-La page est découpé en 5 parties (une à gauche et 4 centrales)
-Nous allons pour l'instant seulement utiliser la fenêtre « HTML » et la fenêtre « Result ». 
-
-Dans la partie HTML tapez 
+Ouvrez Notepad++
+faites une nouvelle page 
+enregistrez la dans eleve / votre nom avec pour nom  
+index.html
+ouvrer la page dans votre navigateur 
+  
+Ajouter le code minimum vu précédemment  
+  
+Dans la partie body tapez 
 
   ````html
 <h1>Hello World!</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultricies. </p>
   ````
 
-Appuyer maintenant sur la touche Run en haut à gauche de votre écran  
+actualisez la page dans votre navigateur 
 On remarque que
 
   ````html
