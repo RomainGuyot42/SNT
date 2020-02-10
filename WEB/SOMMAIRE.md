@@ -14,4 +14,4 @@ Bienvenu sur la page principale du Chapitre Web de SNT
   
 - [Requête HTTP](./REQUETE.md)   
   
-- [HTML](./HTML.md)   
+- [HTML](./HTML/Balises.md)   
