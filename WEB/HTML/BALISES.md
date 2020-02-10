@@ -42,5 +42,5 @@ La structure suivant est correct :
 </balise2>
 </balise1>
   ````
-  
+---
  # [Exercices](./EXERCICES1.md)
