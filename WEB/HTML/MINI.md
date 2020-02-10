@@ -3,7 +3,7 @@
 Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur l'utilité des différentes parties 
    
   ````html
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<!DOCTYPE html>
 <html>
   <head>
     <title>Ma première page</title>
