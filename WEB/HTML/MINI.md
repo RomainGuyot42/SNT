@@ -13,7 +13,7 @@ Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur
   </body>
 </html>
   
-  ````html
+  ````
 
 ---
 # [Exercice](EXERCICES1.md)
