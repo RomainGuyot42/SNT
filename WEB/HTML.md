@@ -23,4 +23,5 @@ la plupart des balises fonctionnent par paires. La première balise est ouvrante
 Une balise fermante doit avoir le même nom que la balise ouvrante, une balise fermante doit avoir une barre oblique entre le chevron initial et le nom de la balise  
 
 exemple :
+  ````html
   <h1></h1> 
