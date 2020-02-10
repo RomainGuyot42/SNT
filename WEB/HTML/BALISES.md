@@ -43,4 +43,4 @@ La structure suivant est correct :
 </balise1>
   ````
   
- #[Exercices](./EXERCICES1.md)
+ # [Exercices](./EXERCICES1.md)
