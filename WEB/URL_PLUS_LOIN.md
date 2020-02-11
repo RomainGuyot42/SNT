@@ -1,5 +1,5 @@
 
-# Url pour aller pus loin
+# Url pour aller plus loin
 
 Nous avons vu la forme la plus simple d'une URL mais celui-ci peut être plus compliqué
 
