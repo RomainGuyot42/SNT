@@ -1,7 +1,7 @@
 
 # Le Web SNT Seconde
 
-Bienvenu sur la page principale du Chapitre Web de SNT
+Bienvenu sur le sommaire du Chapitre Web de SNT
 --
 
 - [Introduction](./INTRO.md)  
