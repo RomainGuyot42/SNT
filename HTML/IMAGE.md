@@ -13,3 +13,4 @@ Il nous faut maintenant indiquez l'emplacement de celle-ci pour cela écrire (po
 ````html
 <img src="27059.jpg">
 ````
+ Ajoutez l'image après le 2 eme paragraphe
