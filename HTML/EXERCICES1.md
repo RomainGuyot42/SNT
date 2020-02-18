@@ -74,3 +74,6 @@ Déforestation
 Dans la région, la déforestation consiste essentiellement à convertir les zones boisées en champs agricoles. Plus du cinquième de la forêt amazonienne a déjà été détruit, et celle qui reste est menacée. En dix ans, la surface de forêt perdue en Amazonie atteint entre 415 000 et 587 000 km2 ; à titre de comparaison la France a une superficie totale (sans les territoires d'outre-mer) de 547 030 km2. La majeure partie des terres converties sert à produire de la nourriture pour le bétail  
   
 avec "produire de la nourriture pour le bétail" en italic
+  
+---
+# [SUITE](./A_LA_LIGNE.md)
