@@ -43,4 +43,4 @@ La structure suivant est correct :
 </balise1>
   ````
 ---
- # [Suite](./MINI.md)
+# [Suite](./MINI.md)
