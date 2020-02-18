@@ -1,8 +1,8 @@
 # Exercices
 
 Ouvrez Notepad++
-faites une nouvelle page 
-enregistrez la dans eleve / votre nom avec pour nom  
+faites une nouvelle page (fichier -> nouveau)
+Enregistrez la page, pour cela créer un dossier site_Web dans votre dossier perso (eleve -> votre nom ...), puis enregistrez avec pour nom  
 index.html
 ouvrer la page dans votre navigateur 
   
