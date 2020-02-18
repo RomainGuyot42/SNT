@@ -1,6 +1,7 @@
 # Code minimum
   
-Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur l'utilité des différentes parties 
+Voici le code minimum à avoir dans une page web!  
+Copiez le  
    
   ````html
 <!DOCTYPE html>
@@ -16,4 +17,4 @@ Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur
   ````
 
 ---
-# [Exercice](EXERCICES1.md)
+# [Suite](./BASE.md)
