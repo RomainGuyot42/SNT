@@ -9,7 +9,7 @@ Voici le code minimum à avoir dans une page web, nous reviendrons plus tard sur
     <meta charset="utf-8">
     <title>Ma première page</title>
   </head>
-
+    
   <body>
   </body>
 </html>
