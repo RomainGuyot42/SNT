@@ -16,3 +16,7 @@ Nous le voulons maintenant comme ceci :
 
   Elle s'étend sur 9 Pays dont le Brésil qui en possède 63%.</p>
 ````
+modifier votre paragraphe dans notepad++ et actualiser la page.  
+  
+Vous remarquez que rien n'a changer : Pourquoi ?  
+Votre éditeur ne comprend pas les saut de ligne de la même façon que vous, pour cela vous devez ajouter ````</br>```` quand vous voullez sautez une ligne
