@@ -8,7 +8,7 @@ ouvrer la page dans votre navigateur
   
 Ajouter le code minimum vu précédemment  
   
-Dans la partie body tapez 
+Entre les balises ````<body>```` et ````</body>```` tapez 
 
   ````html
 <h1>Hello World!</h1>
