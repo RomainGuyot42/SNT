@@ -1,6 +1,6 @@
 # Aller à la ligne
 
-Nous allons mobidier le premier paragraphe pour que celui-ci soit plus lisible  
+Nous allons modifier le premier paragraphe pour que celui-ci soit plus lisible  
 Pour le moment il est comme ça :
 
 ````html
