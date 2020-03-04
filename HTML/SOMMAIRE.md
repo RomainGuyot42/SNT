@@ -25,4 +25,4 @@ Chapitre 2 : CSS
   
 - [DIV](DIV.md)  
   
-- [Exercices 2](Exercices 2.md)  
+- [Exercices 2](./EXERCICES2.md)  
