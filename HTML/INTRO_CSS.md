@@ -5,8 +5,14 @@ Enregistrez la page dans votre dossier Site_web qui se trouve dans votre espace 
 
 Premièrement nous voulons modifier la couleur de notre titre principale pour cela nous allons ajouter ceci
 
-```` html
+```` css
 h1{
   color: red;
 }
 ````
+
+enregistrez, puis actualisez votre page web  
+  
+  
+Avez vous observez un changement ?  
+Non, la raison est simple, nous n'avons pas lié notre page css à notre page html pour cela dans la partie ```` <head> ````
