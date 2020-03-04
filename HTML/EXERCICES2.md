@@ -38,3 +38,14 @@ Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% 
 Bloc couleur
 ---
 Ajoutez une ```` <div> ```` avec pour nom **paragraphe** et changer la couleur de fond de cette ```` <div> ```` pour la mettre en gris (gris en anglais : grey)  
+
+Marge
+---
+Le texte est trop proche des bords. Affin de l'éloigné nous voullons créer une marge  
+Nous voullons l'éloigné de 10% de la surface totale.  
+Pour ce faire vous allez ajoutez du code dans la page css  
+Voici quelques éléments qui peuvent vous être utiles :
+- p
+- margin-right
+- margin-left
+- 10%
