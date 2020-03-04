@@ -1,7 +1,7 @@
 
 # Le Web SNT Seconde
 
-Bienvenu sur le sommaire du Chapitre HTML de SNT
+Chapitre 1 : HTML
 --
 
 - [Balises](./BALISES.md)  
@@ -15,5 +15,10 @@ Bienvenu sur le sommaire du Chapitre HTML de SNT
 - [Aller à la ligne](A_LA_LIGNE.md)  
   
 - [Images](IMAGE.md)  
+  
+- [Lien hypertexte](LIEN.md)  
+
+Chapitre 2 : CSS
+--
   
 - [Lien hypertexte](LIEN.md)  
