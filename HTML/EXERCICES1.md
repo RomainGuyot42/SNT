@@ -3,8 +3,8 @@
 Ouvrez Notepad++
 faites une nouvelle page (fichier -> nouveau)
 Enregistrez la page, pour cela créer un dossier *site_Web* dans votre dossier perso (eleve -> votre nom ...), puis enregistrez avec pour nom  
-**index.html**
-ouvrer la page dans votre navigateur 
+**index.html**  
+ouvrer la page dans votre navigateur. Pour cela rendez-vous dans le dossier site_Web et double cliquez sur le fichier index.html
   
 Ajouter le code minimum vu précédemment  
   
