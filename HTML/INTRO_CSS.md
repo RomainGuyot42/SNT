@@ -21,4 +21,4 @@ Non, la raison est simple, nous n'avons pas lié notre page css à notre page ht
 <link rel="stylesheet" href="style.css">
 ````
 
-# [SUITE](./Suite.md)
+# [SUITE](./DIV.md)
