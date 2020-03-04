@@ -24,3 +24,5 @@ Chapitre 2 : CSS
 - [Introduction CSS](INTRO_CSS.md)  
   
 - [DIV](DIV.md)  
+  
+- [Exercices 2](Exercices 2.md)  
