@@ -35,4 +35,6 @@ Image
 ---
 Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **content**
 
-
+Bloc couleur
+---
+Ajoutez une ```` <div> ```` avec pour nom **paragraphe** et changer la couleur de fond de cette ```` <div> ```` pour la mettre en gris (gris en anglais : grey)  
