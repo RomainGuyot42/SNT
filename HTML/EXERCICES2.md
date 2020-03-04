@@ -30,3 +30,9 @@ ensuite nous voulons que le contenu de notre page ne prenne que 80% de la page p
   
 actualiser la page,
 Le premier problème est que le contenu de la page n'est pas centrer pour cela ajouter : ```` margin:auto; ````
+
+Image
+---
+Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **content**
+
+
