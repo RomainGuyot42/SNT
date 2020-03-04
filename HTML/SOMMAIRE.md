@@ -14,3 +14,7 @@ Bienvenu sur le sommaire du Chapitre HTML de SNT
 - [Exercices 1](EXERCICES1.md)  
    
 - [Aller à la ligne](A_LA_LIGNE.md)  
+  
+- [Images](IMAGE.md)  
+  
+- [Lien hypertexte](LIEN.md)  
