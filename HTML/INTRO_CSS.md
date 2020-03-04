@@ -15,4 +15,10 @@ enregistrez, puis actualisez votre page web
   
   
 Avez vous observez un changement ?  
-Non, la raison est simple, nous n'avons pas lié notre page css à notre page html pour cela dans la partie ```` <head> ````
+Non, la raison est simple, nous n'avons pas lié notre page css à notre page html pour cela dans la partie ```` <head> ```` dans notre fichier html après le ```` <title> ```` ajoutez :  
+
+```` html
+<link rel="stylesheet" href="style.css">
+````
+
+# [SUITE](./Suite.md)
