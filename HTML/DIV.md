@@ -49,7 +49,8 @@ si nous voulons faire des traitement diférents nous pouvons encadrer ses bloc p
 
 ````
 
-
+---
+# [Suite](./EXERCICES2.md)
 
 
 
