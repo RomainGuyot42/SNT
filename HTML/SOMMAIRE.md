@@ -21,4 +21,4 @@ Chapitre 1 : HTML
 Chapitre 2 : CSS
 --
   
-- [Lien hypertexte](LIEN.md)  
+- [Introduction CSS](INTRO_CSS.md)  
