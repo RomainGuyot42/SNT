@@ -1,5 +1,5 @@
 ---
-title: Web Development 2019
+title: SNT
 ---
 
 # Bienvenu sur le site de SNT de classe de seconde
