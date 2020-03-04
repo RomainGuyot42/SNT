@@ -8,4 +8,4 @@ Sommaire
   
 - [Python](./PYTHON/VARIABLE.md)
   
-- [HTML](./HTML/BALISES.md)
+- [HTML](./HTML/SOMMAIRE.md)
