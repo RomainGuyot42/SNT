@@ -25,3 +25,8 @@ Pour appeler note balise **contenu** dans notre code css il faut ajouter le code
   
 }
 ````
+Premièrement nous voulons que le fond de cette div soit blanche : pour cela ajouter **background-color** (blanc en anglais : white)  
+ensuite nous voulons que le contenu de notre page ne prenne que 80% de la page pour cela ajouter ```` width:80%; ````  
+  
+actualiser la page,
+Le premier problème est que le contenu de la page n'est pas centrer pour cela ajouter : ```` margin:auto; ````
