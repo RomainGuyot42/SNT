@@ -12,4 +12,4 @@ Bienvenu sur le sommaire du Chapitre Web de SNT
   
 - [URL aller plus loin](URL_PLUS_LOIN.md)  
  
- -[TP Requête HTTP](./Requête HTTP.pdf)
+- [TP Requête HTTP](./Requête HTTP.pdf)
