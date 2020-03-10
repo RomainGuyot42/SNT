@@ -19,7 +19,7 @@ Les balises HTML fonctionnent de manière simple  :
 - Le nom de la balise
 - Des attributs (optionnels). Un espace, suivi du nom de l'attribut, d'un signe égal (=) et d'une valeur entre doubles quotes ("").
 - Un chevron fermant (>)  
-la plupart des balises fonctionnent par paires. La première balise est ouvrante et la seconde est la balise est fermante.  
+la plupart des balises fonctionnent par paires. La première balise est ouvrante et la seconde est la balise fermante.  
 Une balise fermante doit avoir le même nom que la balise ouvrante, une balise fermante doit avoir une barre oblique entre le chevron initial et le nom de la balise  
 
 exemple :
