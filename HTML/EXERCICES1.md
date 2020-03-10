@@ -15,7 +15,7 @@ Entre les balises ````<body>```` et ````</body>```` tapez
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultricies. </p>
   ````
 
-actualisez la page dans votre navigateur 
+Enregistrez le fichier, puis actualisez la page dans votre navigateur 
 On remarque que
 
   ````html
