@@ -1,7 +1,7 @@
 # Code minimum
   
 Voici le code minimum à avoir dans une page web!  
-Copiez le  
+Copiez le (Ctrl + c)  
    
   ````html
 <!DOCTYPE html>
