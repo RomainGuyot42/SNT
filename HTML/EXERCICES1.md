@@ -41,7 +41,7 @@ tel que :
 - mark pour surligner 
 
 
-faite une nouvelle page web avec 
+faites une nouvelle page web avec 
 - comme titre principal 
 
 Forêt amazonienne  
