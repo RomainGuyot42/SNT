@@ -35,7 +35,7 @@ Il est important de savoir qu'une structure du type :
   ````
 est interdite, la balise2 a été ouverte après la balise1, elle devra donc être refermée avant la balise1.
 
-La structure suivante est correct :
+La structure suivante est correcte :
   ````html
 <balise1>
 <balise2>
