@@ -29,7 +29,7 @@ Il sont noté de h1 à h6, h1 étant le plus important et h6 le moins important
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultricies. </p>
   ````
   
-la balise p est utilisé pour afficher un paragraphe il est possible d'enrichir ce paragraphe avec d'autres balises 
+la balise p est utilisée pour afficher un paragraphe il est possible d'enrichir ce paragraphe avec d'autres balises 
 tel que :
 
   ````html
