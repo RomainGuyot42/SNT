@@ -15,3 +15,5 @@ Bienvenu sur le sommaire du Chapitre Web de SNT
 - [TP Requête HTTP](./Requete_HTTP.pdf)  
   
 - [TP Gestion compte Google](./Gestion_Compte_google.pdf)
+  
+- [TP Sécurité et confidentialité](./Sécurité_et_confidentialité_sur_le_web.docx)
