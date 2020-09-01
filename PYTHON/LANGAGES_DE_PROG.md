@@ -8,4 +8,4 @@ Au cours de l’année nous allons utiliser le langage python. Le langage Python
 
 ![image](./Python-logo.png )
 
-# [SUITE : Les Variables](./VARIABLE.md)
+# [SUITE : Les Variables](./VARIABLES.md)
