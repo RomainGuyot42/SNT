@@ -4,4 +4,8 @@ Un langage de programmation est un langage destiné à produire des programmes i
 
 ![image](./langages_de_programmation.JPG )
 
+Au cours de l’année nous allons utiliser le langage python. Le langage Python est placé sous une licence libre, ce qui veut dire que le langage peut être utilisé avec pas ou peu de restriction vis-à-vis de l’auteur de ce langage. Il fonctionne sur la plupart des plates-formes informatiques, des smartphones aux ordinateurs de Windows à Unix avec notamment GNU/Linux en passant par macOS, ou encore Android, iOS,
+
+![image](./Python-logo.png )
+
 # [SUITE : Les Variables](./VARIABLE.md)
