@@ -1,7 +1,8 @@
 # Les Variables
 
 Dans un programme il faut enregistrer des données (le temps que le programme s'exécute) nécessaires au traitement des tâches.
-Une variable désigne donc un emplacement de stockage dans la mémoire de l’ordinateur.
+Une variable désigne donc un emplacement de stockage dans la mémoire de l’ordinateur. 
+On peut la comparer à une boîte dans laquelle on range des valeurs.
 
 Une variable est définie par un nom que le programmeur lui attribue.
 
@@ -20,3 +21,6 @@ a = 7
 ````
 
 ![image](./box.png )
+
+
+# [SUITE : Les types](./TYPES.md)
