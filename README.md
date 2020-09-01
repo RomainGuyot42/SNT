@@ -6,6 +6,6 @@ Sommaire
 
 - [Le Web](./WEB/SOMMAIRE.md)
   
-- [Python](./PYTHON/VARIABLE.md)
+- [Python](./PYTHON/LANGAGES_DE_PROG.md)
   
 - [HTML](./HTML/SOMMAIRE.md)
