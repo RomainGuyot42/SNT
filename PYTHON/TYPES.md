@@ -39,7 +39,7 @@ Les langages de programmation sont toujours en anglais à partir de maintenant n
 C'est pourquoi pour un float on utilise un point et pas une virgule 
 
 ## Attention 
-Pour définir une Character string il faut mettre le texte entre Guillemet siple ou double 
+Pour définir une Character string il faut mettre le texte entre Guillemet simple ou double 
 exemple : 
 ````python
 a = 'bonjour'
