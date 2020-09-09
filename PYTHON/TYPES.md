@@ -33,7 +33,7 @@ Voici un tableau avec tous les types que vous pouvez croiser au cours de l'anné
 | Long integer | Entier long | long | Entier compris entre + l'infini et - l'infini | b = 10 000 000 000 |
 | Floating point number | Nombre à virgule flottante | float | Nombre réel (Nombre à virgule) | c = 3.7  |
 | Character string | Chaîne de caractères | str | Chaîne de caractères (texte) | d = 'bonjour' |
-| Boolean| Valeur booléenne | bool | 2 valeur possible True ou False (vrai ou faux) | e = true |
+| Boolean| Valeur booléenne | bool | 2 valeurs possibles True ou False (vrai ou faux) | e = true |
 
 Les langages de programmation sont toujours en anglais à partir de maintenant nous utiliserons exclusivement les termes anglais
 C'est pourquoi pour un float on utilise un point et pas une virgule 
