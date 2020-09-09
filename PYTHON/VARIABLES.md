@@ -14,7 +14,7 @@ nom_variable
 Pour affecter une valeur à une variable (mettre une valeur dans l'emplacement mémoire correspondant à notre variable) il faut ajouter le signe = 
 
 ### exemple : 
-je veut affecter la valeur 7 à une variable que j'ai nommé a
+je veux affecter la valeur 7 à une variable que j'ai nommé a
 
 ````python
 a = 7
