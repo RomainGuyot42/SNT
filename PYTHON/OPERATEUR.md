@@ -24,3 +24,5 @@ Voici les opérateurs que nous allons utiliser
 | ==  | égalité  | tout les types | m == n |
 | !=  | est différent de  | tout les types | m != n |
 
+# [SUITE : Les Commandes](./COMMANDES.md)
+
