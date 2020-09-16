@@ -16,5 +16,11 @@ Voici les opérateurs que nous allons utiliser
 | + | Addition | entier, réel, chaîne de caractères  | a = 6 + 4, b = "je suis " + "Bernard" |
 | - | Soustraction | entier, réel  | c = 6-2 | 
 | * | Multiplication | entier, réel, chaîne de caractères  | d = 6*4, e = 1.2 * 1, f = 3 * "s" ("sss")  |
-| **  | Chaîne de caractères | str | Chaîne de caractères (texte) | d = 'bonjour' |
-| Boolean| Valeur booléenne | bool | 2 valeurs possibles True ou False (vrai ou faux) | e = true |  
+| ** | Puissance | entier, réel | g = 12**2 | 
+| / | Division | entier, réel  | h = 6/4, i = 6.2/4 | 
+| // | Division entière | entier, réel  | j = 6/4 (résultat = 1)| 
+| %  | Modulo | entier, réel  | k = 6%4 (résultat = 2) |
+| =  | affectation | tout les types | l = 2 |
+| ==  | égalité  | tout les types | m == n |
+
+
