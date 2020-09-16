@@ -22,5 +22,5 @@ Voici les opérateurs que nous allons utiliser
 | %  | Modulo | entier, réel  | k = 6%4 (résultat = 2) |
 | =  | affectation | tout les types | l = 2 |
 | ==  | égalité  | tout les types | m == n |
-
+| !=  | est différent de  | tout les types | m != n |
 
