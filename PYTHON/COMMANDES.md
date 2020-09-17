@@ -20,6 +20,13 @@ exemple
 print ('Bonjour')
 ````
 
+Il est possible d'afficher du texte et une variable dans le même print pour cela il faut fermer le texte avec un guillement et séparer le texte et la variable par une virgule.
+
+````Python
+nom = bernard
+print("Bonjour ", nom)
+````
+
 Pour trouver le type d'une variable on utilise la commande 
 
 ````Python
@@ -34,3 +41,16 @@ exemple
 a = 7
 type (a)
 ````
+
+Pour demander à l'utilisateur d'entrer une valeur il faut utiliser la commande :
+
+````
+input()
+````
+Vous pouvez afficher un texte avec input, pour cela il faut le mettre dans les parenthèse
+
+````
+input('un texte')
+````
+
+
