@@ -9,7 +9,7 @@ x = y + 1
 ````
 Il y a deux opérateurs ( = et +) et trois opérandes (x, y et 1). 
 
-Voici les opérateurs que nous allons utiliser 
+Voici les opérateurs que nous allons utiliser :
 
 | Symbole  | Opération | types |exemple |
 | -- | -- | -- | -- |
@@ -20,9 +20,9 @@ Voici les opérateurs que nous allons utiliser
 | / | Division | entier, réel  | h = 6/4, i = 6.2/4 | 
 | // | Division entière | entier, réel  | j = 6/4 (résultat = 1)| 
 | %  | Modulo | entier, réel  | k = 6%4 (résultat = 2) |
-| =  | affectation | tout les types | l = 2 |
-| ==  | égalité  | tout les types | m == n |
-| !=  | est différent de  | tout les types | m != n |
+| =  | affectation | tous les types | l = 2 |
+| ==  | égalité  | tous les types | m == n |
+| !=  | est différent de  | tous les types | m != n |
 
 # [SUITE : Les Commandes](./COMMANDES.md)
 
