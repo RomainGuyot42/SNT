@@ -33,7 +33,7 @@ Pour trouver le type d'une variable on utilise la commande
 type()
 ````
 
-La vaiable dont vous voulez trouver le type est à mettre entre les parenthèses. 
+La variable dont vous voulez trouver le type est à mettre entre les parenthèses. 
 
 exemple
 
