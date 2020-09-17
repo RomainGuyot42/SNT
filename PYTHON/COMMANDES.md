@@ -25,7 +25,7 @@ Il est possible d'afficher du texte et une variable dans le même print pour cel
 exemple 2
 
 ````Python
-nom = bernard
+nom = 'bernard'
 print("Bonjour ", nom)
 ````
 
