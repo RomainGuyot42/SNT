@@ -9,9 +9,9 @@ print()
 ````
 
 ### Attention
-python est sensible à la casse, ce qui signifie que les variables TesT, test ou TEST sont différentes donc si vous appeler la fonction Print() avec un P majuscule python ne vas pas comprendre 
+Python est sensible à la casse, ce qui signifie que les variables TesT, test ou TEST sont différentes donc si vous appeler la fonction Print() avec un P majuscule python ne vas pas comprendre 
 
-la valeur que vous voulez afficher est à mettre entre les parenthèses. 
+La valeur que vous voulez afficher est à mettre entre les parenthèses. 
 Par exemple vous pouvez afficher le contenue d'une variable ou encore du texte (à mettre entre guillemets) 
 
 exemple
