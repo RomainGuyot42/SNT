@@ -1,8 +1,8 @@
 # Les Commandes
 
-Certaines commandes sont indispensable pour commancer à utiliser le langage python.
+Certaines commandes sont indispensables pour commancer à utiliser le langage python.
 
-Pour affiche du contenue il faut utiliser la commande 
+Pour afficher du contenu il faut utiliser la commande 
 
 ````Python
 print()
