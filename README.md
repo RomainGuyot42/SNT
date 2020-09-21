@@ -6,6 +6,6 @@ Sommaire
 
 - [Le Web](./WEB/SOMMAIRE.md)
   
-- [Python](./PYTHON/LANGAGES.md)
+- [Python](./PYTHON/SOMMAIRE.md)
   
 - [HTML](./HTML/SOMMAIRE.md)
