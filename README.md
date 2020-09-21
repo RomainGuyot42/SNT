@@ -10,4 +10,4 @@ Sommaire
   
 - [HTML](./HTML/SOMMAIRE.md)
 
-- [Les données](./DONNES/SOMMAIRE.md)
+- [Les données](./DONNEES/SOMMAIRE.md)
