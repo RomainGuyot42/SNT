@@ -14,4 +14,14 @@ Noté la définition d'une métadonnée dans votre cours
 Télecharger dans votre dossier personelle le fichier suivant 
 - [musique.mp3](./musique.mp3)
 
-`Q.2` 
+`Q.2` Donnez le titre, l'auteur, l'album, l'année de publication du morceau de musique
+
+`Q.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./ droits-des-enfants.pdf)
+
+`Q.4` Téléchargez le fichier coccinelle.jpg[coccinelle.jpg](./ coccinelle.jpg)
+- Quel est l'auteur de la photo ?
+- Le flash était-il allumé ?
+- À quelle date a été prise la photo ?
+- Quelle est la marque de l'appareil photo utilisé ?
+
+`Q.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
