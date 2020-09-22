@@ -1,4 +1,4 @@
-# Les Données ouverte
+# Les Données ouvertes
 
 ## Téléchargement et Ouverture du fichier ouvert
 
