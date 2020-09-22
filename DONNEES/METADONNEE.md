@@ -1,4 +1,4 @@
-#Métadonnée
+# Métadonnée
 
 Noté la définition d'une métadonnée dans votre cours 
 
@@ -9,3 +9,9 @@ Noté la définition d'une métadonnée dans votre cours
 
 `Q.1` Reformuler la définition d'une métadonnée.
 
+## Lecture de métadonnée 
+
+Télecharger dans votre dossier personelle le fichier suivant 
+- [musique.mp3](./musique.mp3)
+
+`Q.2` 
