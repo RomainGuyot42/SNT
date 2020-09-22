@@ -11,6 +11,8 @@ Pour ce faire :
 3. Enregistrez le document dans votre répertoire personnel, en lui donnant pour nom `SNT-metadonnees-CLASSE-NOM` (en remplaçant `CLASSE` par votre classe et `NOMS` par votre nom de famille)
 4. Le rendu se fera au format PDF vérifier que vous savez enregistrer en fichier dans ce format imédiatement
 
+P.S. Chaque question sera écrite de la façon suivante : `Q.1`
+Dans le document que vous allez rendre noté le numéro de la question
 
 ## - [Début de l'exercice ](./METADONNEE.md)
 
