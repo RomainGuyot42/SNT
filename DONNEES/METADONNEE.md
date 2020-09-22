@@ -35,7 +35,9 @@ Télecharger dans votre dossier personelle le fichier suivant
 et regardez les méta-données listées dans les vingt premières lignes.
 
 `a` Qui est l'auteur de cette page (il s'agit d'une structure, pas d'une personne) ?
+
 `b` Quelle est la description de la page (à afficher par les moteurs de recherche, par exemple) ?
+
 `c` Lorsque cette page est twittée, quelle image devrait utiliser Twitter pour l'illustrer ? (Donnez l'URL de la Photo)
 
 ## - [Suite Les données ouvertes ](./DONNEES_OUVERTE.md)
