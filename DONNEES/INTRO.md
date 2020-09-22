@@ -1,5 +1,5 @@
 
-# Les métadonnées 
+# Les métadonnées et données ouverte
 
 ## 1. Préparation du compte-rendu
 
