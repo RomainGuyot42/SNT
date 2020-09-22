@@ -11,6 +11,11 @@ Noté la définition d'une métadonnée dans votre cours
 
 ## Lecture de métadonnée 
 
+Pour afficher les métadonnées d'un fichier il faut
+Faire un clique droit sur le fichier 
+Aller dans l'onglet `Propriétés`
+Toutes les informations sont disponible dans la page qui vient de s'ouvrir
+
 Télecharger dans votre dossier personelle le fichier suivant 
 - [musique.mp3](./musique.mp3)
 
@@ -25,3 +30,5 @@ Télecharger dans votre dossier personelle le fichier suivant
 - Quelle est la marque de l'appareil photo utilisé ?
 
 `Q.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
+- Clique droit 
+
