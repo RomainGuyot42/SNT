@@ -30,5 +30,12 @@ Télecharger dans votre dossier personelle le fichier suivant
 - Quelle est la marque de l'appareil photo utilisé ?
 
 `Q.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
-- Clique droit 
+- Clique droit dans la page 
+- Examiner l'élément
+et regardez les méta-données listées dans les vingt premières lignes.
+
+`a` Qui est l'auteur de cette page (il s'agit d'une structure, pas d'une personne) ?
+`b` Quelle est la description de la page (à afficher par les moteurs de recherche, par exemple) ?
+`c` Lorsque cette page est twittée, quelle image devrait utiliser Twitter pour l'illustrer ? (Donnez l'URL de la Photo)
+
 
