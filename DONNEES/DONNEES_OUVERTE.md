@@ -8,8 +8,11 @@
 - Ouvrir le logiciel LibreOffice Calc, et ouvrez le fichier que vous venez de télécharger avec ce logiciel.
 
 Questions sur le fichier 
+
 `Q2.1` Quel est le film ayant fait le plus d'entrées en 2018 ?
+
 `Q2.2` Quel est le film français ayant fait le plus d'entrées en 2014 ?
+
 `Q2.3` Quelle est la nationalité du film ayant fait le plus d'entrées en 2010 ?
 
 ### Utilisation des filtres
