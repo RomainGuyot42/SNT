@@ -44,4 +44,4 @@ Toujours sur la platforme [data.gouv](https://www.data.gouv.fr/fr/) et recherche
 ## Rendu
 Convertissez votre compte-rendu au format PDF
 Vérifiez que le nom du fichier  
-Enregistrez le fichier dans le disque echange(P:), le nom de votre classe, travail, SNT 2020-2021, Rendu
+Enregistrez le fichier dans le disque echange(P:), le nom de votre classe, travail, SNT 2020-2021, Donnée, Rendu
