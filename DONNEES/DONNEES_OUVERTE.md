@@ -31,6 +31,7 @@ Supprimez le filtre sur la nationalité (vous devez à nouveau voir toutes les n
 `Q2.6`  On veut connaître, parmi les films des États-Unis sortis en 2018 (et non 2017), quels sont les quatre films ayant réalisé le plus d'entrée.
 
 `a` Décrire sur votre compte-rendu votre démarche pour répondre à cette question : Quels filtres appliqués ? Quels tris ?
+
 `b` Répondre à la question.
 
 `Q2.7` Quel est le total des entrées des films filtrés à la question précédente ?
