@@ -24,10 +24,14 @@ Télecharger dans votre dossier personelle le fichier suivant
 `Q.1.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./ droits-des-enfants.pdf)
 
 `Q.1.4` Téléchargez le fichier [coccinelle.jpg](./ coccinelle.jpg)
-- Quel est l'auteur de la photo ?
-- Le flash était-il allumé ?
-- À quelle date a été prise la photo ?
-- Quelle est la marque de l'appareil photo utilisé ?
+
+`a` Quel est l'auteur de la photo ?
+
+`b` Le flash était-il allumé ?
+
+`c` À quelle date a été prise la photo ?
+
+`d` Quelle est la marque de l'appareil photo utilisé ?
 
 `Q.1.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
 - Clique droit dans la page 
