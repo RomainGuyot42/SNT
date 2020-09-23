@@ -51,4 +51,4 @@ Toujours sur la platforme [data.gouv](https://www.data.gouv.fr/fr/) et recherche
 
 `Q2.13` Combien les cinémas français ont-ils de fauteuils par salle, en moyenne ?
 
-## - [Fin de l'exercice ](./RENDU.md)
+## - [Rendu du travail ](./RENDU.md)
