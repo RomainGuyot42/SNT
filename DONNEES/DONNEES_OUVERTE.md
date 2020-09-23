@@ -26,6 +26,7 @@ Questions sur le fichier
 `Q2.4` Quels sont les trois films français ayant fait le plus d'entrée en 2018 ?
 
 Supprimez le filtre sur la nationalité (vous devez à nouveau voir toutes les nationalités), puis triez la colonne sortie par date.
+
 `Q2.5` Les quatre premiers films sont sortis en 2017, pourtant, ce sont les films les plus vus en 2018 qui sont affichés. Expliquez ce paradoxe.
 
 `Q2.6`  On veut connaître, parmi les films des États-Unis sortis en 2018 (et non 2017), quels sont les quatre films ayant réalisé le plus d'entrée.
