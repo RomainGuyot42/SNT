@@ -36,7 +36,7 @@ Télecharger dans votre dossier personelle le fichier suivant
 `Q.1.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
 - Clique droit dans la page 
 - Examiner l'élément
-et regardez les méta-données listées dans les vingt premières lignes.
+et regardez les méta-données listées dans les vingt premières lignes (Partie <head></head>).
 
 `a` Qui est l'auteur de cette page (il s'agit d'une structure, pas d'une personne) ?
 
