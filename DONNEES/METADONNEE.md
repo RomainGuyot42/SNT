@@ -16,14 +16,13 @@ Faire un clique droit sur le fichier
 Aller dans l'onglet `Propriétés`
 Toutes les informations sont disponible dans la page qui vient de s'ouvrir
 
-Télecharger dans votre dossier personelle le fichier suivant 
+Télecharger dans votre dossier personelle le fichier suivant (clic droit Enregistrez la cible du lien sous...) dans votre espace personelle 
 - [musique.mp3](./musique.mp3)
 
 `Q.1.2` Donnez le titre, l'auteur, l'album, l'année de publication du morceau de musique
 
-`Q.1.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./droits-des-enfants.pdf)
+`Q.1.3` Téléchargez le fichier [coccinelle.jpg](./coccinelle.jpg)
 
-`Q.1.4` Téléchargez le fichier [coccinelle.jpg](./coccinelle.jpg)
 
 `a` Quel est l'auteur de la photo ?
 
@@ -33,7 +32,7 @@ Télecharger dans votre dossier personelle le fichier suivant
 
 `d` Quelle est la marque de l'appareil photo utilisé ?
 
-`Q.1.5` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
+`Q.1.4` Ouvrez la page d'accueuil [d'Éduscol](https://eduscol.education.fr/)  dans un nouvel onglet, affichez les sources 
 - Clique droit dans la page 
 - Examiner l'élément
 et regardez les méta-données listées dans les vingt premières lignes (Partie <head></head>).
