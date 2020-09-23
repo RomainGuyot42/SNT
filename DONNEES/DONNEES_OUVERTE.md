@@ -51,7 +51,4 @@ Toujours sur la platforme [data.gouv](https://www.data.gouv.fr/fr/) et recherche
 
 `Q2.13` Combien les cinémas français ont-ils de fauteuils par salle, en moyenne ?
 
-## Rendu
-Convertissez votre compte-rendu au format PDF
-Vérifiez que le nom du fichier  
-Enregistrez le fichier dans le disque echange(P:), le nom de votre classe, travail, SNT 2020-2021, Donnée, Rendu
+## - [Fin de l'exercice ](./RENDU.md)
