@@ -23,7 +23,7 @@ Télecharger dans votre dossier personelle le fichier suivant
 
 `Q.1.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./droits-des-enfants.pdf)
 
-`Q.1.4` Téléchargez le fichier [coccinelle.jpg](./ coccinelle.jpg)
+`Q.1.4` Téléchargez le fichier [coccinelle.jpg](./coccinelle.jpg)
 
 `a` Quel est l'auteur de la photo ?
 
