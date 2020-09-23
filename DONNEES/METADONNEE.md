@@ -21,7 +21,7 @@ Télecharger dans votre dossier personelle le fichier suivant
 
 `Q.1.2` Donnez le titre, l'auteur, l'album, l'année de publication du morceau de musique
 
-`Q.1.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./ droits-des-enfants.pdf)
+`Q.1.3` Quel logiciel a été utilisé pour rédiger le document suivant [ droits-des-enfants.pdf](./droits-des-enfants.pdf)
 
 `Q.1.4` Téléchargez le fichier [coccinelle.jpg](./ coccinelle.jpg)
 
