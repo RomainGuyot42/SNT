@@ -38,10 +38,15 @@ Supprimez le filtre sur la nationalité (vous devez à nouveau voir toutes les n
 Toujours sur la platforme [data.gouv](https://www.data.gouv.fr/fr/) et recherchez liste `cinémas`, puis télécharger la `Liste des établissements cinématographiques actifs`
 
 `Q2.8` Quelle est la salle de cinéma en France ayant le plus de fauteuils ? Donner la ville, le nom de la salle, le nombre de fauteuils.
+
 `Q2.9` Quelle est la salle de cinéma en France ayant le moins de fauteuils (mais pas 0) ? Donner la ville, le nom de la salle, le nombre de fauteuils.
+
 `Q2.10` Combien d'écrans et de fauteuils l'unique cinéma de Vienne a-t-il ?
+
 `Q2.11` Combien de cinéma « Art et Essai » sont équipés d'un écran 3D ?
+
 `Q2.12` Combien de fauteuils ont l'ensemble des dix plus gros cinémas français (en nombre de fauteuils) ?
+
 `Q2.13` Combien les cinémas français ont-ils de fauteuils par salle, en moyenne ?
 
 ## Rendu
