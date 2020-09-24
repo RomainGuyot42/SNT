@@ -12,12 +12,13 @@ Noté la définition d'une métadonnée dans votre cours
 ## Lecture de métadonnée 
 
 Télecharger dans votre dossier personelle le fichier suivant (clic droit Enregistrez la cible du lien sous...) dans votre espace personelle 
-- [musique.mp3](./musique.mp3)
 
 Pour afficher les métadonnées d'un fichier il faut
 Faire un clique droit sur le fichier 
 Aller dans l'onglet `Propriétés`
 Toutes les informations sont disponible dans la page qui vient de s'ouvrir
+
+- [musique.mp3](./musique.mp3)
 
 `Q.1.2` Donnez le titre, l'auteur, l'album, l'année de publication du morceau de musique
 
