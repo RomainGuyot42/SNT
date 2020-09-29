@@ -22,3 +22,24 @@ La notion de Bloc
 >Il y a deux solutions pour indenter : utiliser quatre espaces ou un seul caractère tabulation, mais jamais un mélange des deux sous peine d'erreurs IndentationError: unindent does not match any outer indentation level
 
 ### L''instruction `if`
+
+exemple 1
+````
+a = 11
+if a > 10 :
+    print("a est plus grand que dix")
+````
+
+l'instruction teste si a est supérieur à 10. 
+La partie alors est matérialiser par l'indentation. Si il y a plus d'une ligne de code il faut maintenir l'indentation. 
+
+````
+if a > 10 :
+    print("a est plus grand que dix")
+else:
+    print("a n'est pas plus grand que dix")
+````
+La partie est matérialiser par le else, les instructions corespondantes aux else sont a la suite avec une indentation 
+
+
+
