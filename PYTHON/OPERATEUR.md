@@ -18,7 +18,7 @@ Voici les opérateurs que nous allons utiliser :
 | * | Multiplication | entier, réel, chaîne de caractères  | d = 6*4, e = 1.2 * 1, f = 3 * "s" ("sss")  |
 | ** | Puissance | entier, réel | g = 12**2 | 
 | / | Division | entier, réel  | h = 6/4, i = 6.2/4 | 
-| // | Division entière | entier, réel  | j = 6/4 (résultat = 1)| 
+| // | Division entière | entier, réel  | j = 6//4 (résultat = 1)| 
 | %  | Modulo | entier, réel  | k = 6%4 (résultat = 2) |
 | =  | affectation | tous les types | l = 2 |
 | ==  | égalité  | tous les types | m == n |
