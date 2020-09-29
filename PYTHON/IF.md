@@ -5,9 +5,9 @@ Le programme est amené à faire des choix pour cela il faut utiliser un instruc
   
 Prenon un exemple 
 ````
-**Si** je suis en retard 
-  **Alors** je vais à la vie scolaire
-**Sinon** 
+Si je suis en retard 
+  Alors je vais à la vie scolaire
+Sinon 
   je vais en classe
 ````
 
