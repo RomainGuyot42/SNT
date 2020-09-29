@@ -42,4 +42,14 @@ else:
 La partie est matérialiser par le else, les instructions corespondantes aux else sont a la suite avec une indentation 
 
 
+## Instructions imbriquées
 
+Il est parfaitement possible d'imbriquer les unes dans les autres plusieurs instructions composées, de manière à réaliser des structures de décision complexes
+
+````
+if embranchement == "vertébrés":
+    if classe == "mammifères":
+        if ordre == "carnivores":
+            if famille == "félins":
+                print ("c'est peut-être un chat")
+````
