@@ -44,7 +44,8 @@ La partie est matérialiser par le else, les instructions corespondantes aux els
 
 ## Instructions imbriquées
 
-Il est parfaitement possible d'imbriquer les unes dans les autres plusieurs instructions composées, de manière à réaliser des structures de décision complexes
+Il est parfaitement possible d'imbriquer les unes dans les autres plusieurs instructions composées, de manière à réaliser des structures de décision complexes.
+Pour chaque instruction imbriquer il faut rajouter une tabulation.
 
 ````
 if embranchement == "vertébrés":
