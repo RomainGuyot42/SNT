@@ -34,4 +34,19 @@ vas générer une suite de 4 entiers de 0 à 3
 
 ### les boucles non bornées `while`
 
+Le mot-clé `while` signifie tant que en anglais, le bloc d'instruction sera effectuer tant que la condition est vrai
 
+Syntaxe :
+````
+while condition:
+    Instruction A
+````
+
+Exemple 4
+````python
+x = 1
+while x < 10:
+    print("x a pour valeur", x)
+    x = x * 2
+print("Fin")
+````
