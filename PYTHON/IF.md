@@ -1,6 +1,6 @@
 # Les Conditions 
 
-Le programme est amené à faire des choix pour cela il faut utiliser un instruction qui dépend de certaines conditions : 
+Le programme est amené à faire des choix pour cela il faut utiliser une instruction qui dépend de certaines conditions : 
   L'instruction `if`
   
 Prenon un exemple 
