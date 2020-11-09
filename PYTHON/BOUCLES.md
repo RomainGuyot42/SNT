@@ -1,6 +1,6 @@
 # Les Boucles 
 
-Les boucles sont utiliser pour effectuer plusieurs fois la même opération dans un programme 
+Les boucles sont utilisées pour effectuer plusieurs fois la même opération dans un programme 
 
 Il existe deux types de boucles :
 
