@@ -11,3 +11,5 @@ Sommaire
 - [HTML](./HTML/SOMMAIRE.md)
 
 - [Les données](./DONNEES/SOMMAIRE.md)
+
+- [Internet](./INTERNET/SOMMAIRE.md)
