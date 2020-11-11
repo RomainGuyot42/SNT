@@ -8,4 +8,11 @@ Dans certains cas, on pourrait se connecter à un site web en utilisant son adre
 
 Le service qui fait le lien entre nom de domaine (du type fr.wikipedia.org, utilisé par les humains) et adresse IP (du type 91.198.174.192, utilisé par les ordinateurs) est appelé système de noms de domaines, ou DNS (pour l'anglais domain name system).
 
-[![DNS](https://www.youtube.com/watch?v=qzWdzAvfBoo)](https://www.youtube.com/watch?v=qzWdzAvfBoo)
+Recopier cette définition dans votre cours 
+
+Ensuite Faire les questions présentes dans le lien suivant
+P.S. n'oubliez pas d'appuyer sur le bouton envoyer après avoir répondu aux questions 
+
+[Questions sur le DNS ](https://forms.gle/srs2Scvv92AQ8kTv8)
+
+
