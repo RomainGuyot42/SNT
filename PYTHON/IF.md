@@ -33,6 +33,7 @@ if a > 10 :
 l'instruction teste si a est supérieur à 10. 
 La partie alors est matérialiser par l'indentation. Si il y a plus d'une ligne de code il faut maintenir l'indentation. 
 
+exemple 2 
 ````
 if a > 10 :
     print("a est plus grand que dix")
