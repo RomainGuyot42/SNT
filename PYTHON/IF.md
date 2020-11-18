@@ -3,7 +3,7 @@
 Le programme est amené à faire des choix pour cela il faut utiliser une instruction qui dépend de certaines conditions : 
   L'instruction `if`
   
-Prenon un exemple 
+Prenons un exemple 
 ````
 Si je suis en retard 
   Alors je vais à la vie scolaire
