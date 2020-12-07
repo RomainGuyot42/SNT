@@ -24,10 +24,10 @@ De combien est le ping pour accéder à google ?
 
 Le TTL est le time to live c'est le temps de vie d'un paquet qu'est-ce que cela signifie ?
 
-Pour connaitre l'adresse IP des routeur que notre paquet vas traverser on utilise une commande qui se nomme tracert 
+Pour connaitre l'adresse IP des routeurs que notre paquet va traverser on utilise une commande qui se nomme tracert 
 Si vous etes sur Windows faites la commande : Tracert google.com
 Si vous etes sur MacOS faites la commande : traceroute google.com
 
-Combien de routeur votre paquet a-t-il traverser ?
+Combien de routeur votre paquet a-t-il traversé ?
 
 Quel est l'adresse IP du Serveur de google ?
