@@ -13,7 +13,7 @@ Généralement le port n'est pas indiqué car le navigateur utilise le port par 
 ---
 ### A Noter dans le cours
 ---
-Les paramètres sont données supplémentaires fournis au serveur web. Ces paramètres sont construits sous la forme d’une liste de paires de clé/valeur dont chaque élément est séparé par une esperluette (&). Grace à ses paramètres le serveur web peut effectuer des actions avant d'envoyer la ressource. Les paramètres commence par '?'. Leurs fonctionnement dépend du serveur web
+Les paramètres supplémentaires sont fournis au serveur web. Ces paramètres sont construits sous la forme d’une liste de paires de clé/valeur dont chaque élément est séparé par une esperluette (&). Grace à ses paramètres le serveur web peut effectuer des actions avant d'envoyer la ressource. Les paramètres commence par '?'. Leurs fonctionnement dépend du serveur web
   
 Une ancre, désigne un endroit donnée dans la ressource, cela permet d'afficher une page à un endroit précis de celle-ci  
   
