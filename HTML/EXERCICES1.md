@@ -23,7 +23,7 @@ On remarque que
   ````
   
 est Ecrit en gras et en plus gros. Il sagit d'un titre il est possible d'avoir plusieurs taille de titre :
-Il sont noté de h1 à h6, h1 étant le plus important et h6 le moins important 
+Ils sont noté de h1 à h6, h1 étant le plus important et h6 le moins important 
 
   ````html
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultricies. </p>
