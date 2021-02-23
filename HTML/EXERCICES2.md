@@ -37,7 +37,7 @@ Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% 
 
 Bloc couleur
 ---
-Ajoutez une ```` <div> ```` avec pour nom **paragraphe** et changer la couleur de fond de cette ```` <div> ```` pour la mettre en gris (gris en anglais : grey)  
+Pour le premier paragraphe, ajoutez une ```` <div> ```` avec pour nom **paragraphe_un** et changer la couleur de fond de cette ```` <div> ```` pour la mettre en gris (gris en anglais : grey)  
 
 Marge
 ---
@@ -49,3 +49,19 @@ Voici quelques éléments qui peuvent vous être utiles :
 - margin-right
 - margin-left
 - 10%
+
+vous pouvez trouvez des information sur ce site :
+https://developer.mozilla.org/fr/docs/Web/CSS/margin
+
+Titre
+---
+Nous avons déjà changer la couleur du h1,
+Modifier maintenant la couleur du 
+- h2 en orange
+- h3 en rouge
+- h4 en orange
+
+Bordure
+---
+Une bordure est une ligne qui encadre un élément
+Rajouter une ````<div> ```` sur le second paragraphe avec pour nom **paragraphe_deux** et rajoutez une bordure avec ```` border: 1px solid black; ````
