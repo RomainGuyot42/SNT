@@ -8,10 +8,10 @@ body{
 }
 ````
 cela signifie que nous allons modifier tout ce qui se trouve dans la partie body de notre code css.
-A l'intérieur des ```` {} ```` ajoutez ```` text-align:center; ````  
+A l'intérieur des ```` {} ```` ajoutez ```` text-align: center; ````  
   
 Nous voulons également aligner tout les autres éléménts au centre (ex: image) pour cela il nous faut utiliser **align-content**  
-Maintenant nous allons ajouter un fond vert pour cela utiliser **background** (vert se dit green en anglais)  
+Maintenant nous allons ajouter un fond vert pour cela utiliser **background** : ```` background: green; ````
   
 Actualisez la page pour visualiser le résultat.  
 
@@ -42,16 +42,21 @@ Pour le premier paragraphe, ajoutez une ```` <div> ```` avec pour nom **paragrap
 Marge
 ---
 Le texte est trop proche des bords. Affin de l'éloigné nous voullons créer une marge  
-Nous voullons l'éloigné de 10% de la surface totale.  
+Nous voullons l'éloigné de 5% de la surface totale.  
 Pour ce faire vous allez ajoutez du code dans la page css  
 Voici quelques éléments qui peuvent vous être utiles :
 - p
 - margin-right
 - margin-left
-- 10%
+- 5%
 
 vous pouvez trouvez des information sur ce site :
 https://developer.mozilla.org/fr/docs/Web/CSS/margin
+
+Padding
+---
+Le Padding est utilisé pour créer un espace autour du contenu d'un élément, à l'intérieur de toutes les bordures définies.
+rajouter un **padding** de 3% dans votre div content 
 
 Titre
 ---
