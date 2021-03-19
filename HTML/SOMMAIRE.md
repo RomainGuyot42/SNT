@@ -34,5 +34,6 @@ Chapitre 3 : Aller plus loin
 
 - [Les listes](LISTE.md)
 
-
 - [Les métadonnées](META.md)
+
+- [Ajouter des page à votre site](PAGE2.md)
