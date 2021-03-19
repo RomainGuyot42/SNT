@@ -26,3 +26,10 @@ Chapitre 2 : CSS
 - [DIV](DIV.md)  
   
 - [Exercices 2](./EXERCICES2.md)  
+
+Chapitre 3 : Aller plus loin
+--
+
+- [Les comentaires](COMMENTAIRE.md)
+
+- [Les listes](LISTE.md)
