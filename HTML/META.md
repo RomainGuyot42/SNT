@@ -11,8 +11,16 @@ La balise description est très utile. Elle permet de donner une description aux
 
 ![image](./Capture.PNG)
 
-Ce texte ne sera pas afficher dans votre parge mais sera en description du moteur de recherche
+Ce texte ne sera pas afficher dans votre parge mais sera en description du moteur de recherche comme sur l'image précédente
 
 ````html
 <meta name="description" content="Une description de la page..." />
+````
+
+## 2. Auteur
+
+Vous pouvez également renseignez le nom de l'auteur de la page web grâce à la balise suivante : 
+
+````html
+<meta name="author" content="R GUYOT" />
 ````
