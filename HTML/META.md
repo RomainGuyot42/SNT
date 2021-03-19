@@ -7,9 +7,11 @@ L'objectif ici est de données des informations pour que les moteurs de recherch
 
 ## 1. Description
 
+La balise description est très utile. Elle permet de donner une description aux robots des moteurs de recherches et de l'afficher sur la page des résultats :
+
 ![image](./Capture.PNG)
 
-La balise description est très utile. Elle permet de donner une description aux robots des moteurs de recherches et de l'afficher sur la page des résultats :
+Ce texte ne sera pas afficher dans votre parge mais sera en description du moteur de recherche
 
 ````html
 <meta name="description" content="Une description de la page..." />
