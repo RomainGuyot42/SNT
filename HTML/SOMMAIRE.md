@@ -33,3 +33,6 @@ Chapitre 3 : Aller plus loin
 - [Les comentaires](COMMENTAIRE.md)
 
 - [Les listes](LISTE.md)
+
+
+- [Les métadonnées](META.md)
