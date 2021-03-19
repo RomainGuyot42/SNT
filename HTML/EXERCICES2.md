@@ -75,3 +75,6 @@ Laisse parler ta créativité
 ---
 
 Améliore le site pour qu'il soit à ton goût, n'hésite pas à faire des recherche sur le web pour t'aider
+
+
+# [Allez plus loin](./COMMENTAIRE.md)
