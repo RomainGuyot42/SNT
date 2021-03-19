@@ -30,7 +30,7 @@ Chapitre 2 : CSS
 Chapitre 3 : Aller plus loin
 --
 
-- [Les comentaires](COMMENTAIRE.md)
+- [Les comentaires](COMMENTAIRES.md)
 
 - [Les listes](LISTE.md)
 
