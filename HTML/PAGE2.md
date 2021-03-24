@@ -48,3 +48,4 @@ Dans notre page page2.html
 Le texte à afficher est : Page sur la Forêt amazonienne
 le lien est : ./index.html
 
+# [Suite : Les Métadonnées](META.md)
