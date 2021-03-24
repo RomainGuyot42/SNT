@@ -14,7 +14,7 @@ Le commentaire se créer de la façon suivante :
 <!-- Ceci est un commentaire -->
   ````
 
-Pour le code HTML les commentaire fonctionne de la façon suivante
+Pour le code CSS les commentaire fonctionne de la façon suivante
 Le commentaire se créer de la façon suivante :
 
   ````css
