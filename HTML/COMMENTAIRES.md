@@ -28,4 +28,4 @@ Le commentaire se créer de la façon suivante :
 
 ---
 
-# [Suite : Les Métadonnées](META.md)
+# [Suite : Ajoutez des pages](PAGE2.md)
