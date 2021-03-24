@@ -32,8 +32,9 @@ Chapitre 3 : Aller plus loin
 
 - [Les comentaires](COMMENTAIRES.md)
 
+- [Ajouter des page à votre site](PAGE2.md)
+
 - [Les listes](LISTE.md)
 
 - [Les métadonnées](META.md)
 
-- [Ajouter des page à votre site](PAGE2.md)
