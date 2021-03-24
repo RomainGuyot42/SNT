@@ -42,3 +42,6 @@ Pour créer une liste ordonnée, nous allons cette fois-ci utiliser l’élémen
 Cette fois ce sont cette fois-ci des numéros qui sont affichés devant chaque élément de la liste par défaut.
 
 Encore une fois, nous allons pouvoir changer ce comportement et afficher différents styles de puces avec la propriété CSS ````list-style-type````
+
+
+# [Suite : Les Métadonnées](META.md)
