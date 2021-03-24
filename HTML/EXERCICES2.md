@@ -56,7 +56,7 @@ https://developer.mozilla.org/fr/docs/Web/CSS/margin
 Padding
 ---
 Le Padding est utilisé pour créer un espace autour du contenu d'un élément, à l'intérieur de toutes les bordures définies.
-rajouter un **padding** de 3% dans votre div content 
+rajouter un **padding** de 3% dans votre div contenu 
 
 Titre
 ---
