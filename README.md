@@ -1,3 +1,7 @@
+---
+title: web
+---
+
 
 # Bienvenu sur le site de SNT de classe de seconde
 
