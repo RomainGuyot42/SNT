@@ -22,7 +22,8 @@ Le commentaire se créer de la façon suivante :
 	un commentaire
 */
 ````
- 
+---
+
  ## Exercice 
  
  Commentez votre code HTML et CSS pour vous rappelez ce que vous avez fait
