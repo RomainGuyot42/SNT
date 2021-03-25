@@ -25,15 +25,15 @@ Pour appeler note balise **contenu** dans notre code css il faut ajouter le code
   
 }
 ````
-Premièrement nous voulons que le fond de cette div soit blanche : pour cela ajouter **background-color** (blanc en anglais : white)  
-ensuite nous voulons que le contenu de notre page ne prenne que 80% de la page pour cela ajouter ```` width:80%; ````  
+- Premièrement nous voulons que le fond de cette div soit blanche : pour cela ajouter **background-color** (blanc en anglais : white)  
+- Ensuite nous voulons que le contenu de notre page ne prenne que 80% de la page pour cela ajouter ```` width:80%; ````, de cette dernière ligne de commande, nous lui avons définie que notre div fasse 80% de son contenant c'est à dire ````body````  
   
 actualiser la page,
 Le premier problème est que le contenu de la page n'est pas centrer pour cela ajouter : ```` margin:auto; ````
 
 Image
 ---
-Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **contenu** utiliser **img**
+Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **contenu** utiliser **img**, inspirer vous de ce que vous avez fait avec la div ````contenu````
 
 Bloc couleur
 ---
