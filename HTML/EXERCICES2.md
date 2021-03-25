@@ -35,7 +35,7 @@ Le premier problème est que le contenu de la page n'est pas centrer pour cela a
 
 Image
 ---
-Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **contenu** utiliser **img**, inspirer vous de ce que vous avez fait avec la div ````contenu````
+Notre image est toujours trop grande, modifier sa taille pour qu'elle fasse 80% de notre div **contenu**, pour cela utiliser **img**, et inspirer vous de ce que vous avez fait avec la div ````contenu````
 
 Bloc couleur
 ---
