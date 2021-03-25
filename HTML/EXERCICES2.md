@@ -19,7 +19,7 @@ Ce vert n'est pas très lisible, pour rendre notre page plus lisible nous allons
 
 Pour rappel il faut d'abord créer la div dans notre page HTML pour pouvoir l'appelr dans notre page CSS  
 
-Le nom de cette balise sera **contenu** cela ajouter dans la page HTML la balise ouvrante ```` <div id="contenu"> ```` juste après la balise ```` <body> ```` et la balise fermante ```` </div > ```` juste avant la balise ```` </body> ```` 
+Le nom de cette balise sera **contenu** cela ajouter dans la page *HTML* la balise ouvrante ```` <div id="contenu"> ```` juste après la balise ```` <body> ```` et la balise fermante ```` </div > ```` juste avant la balise ```` </body> ```` 
 
 Pour appeler note balise **contenu** dans notre code css il faut ajouter le code suivant :  
 ````css
