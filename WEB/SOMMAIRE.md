@@ -1,3 +1,7 @@
+---
+title: Web Development 2019
+---
+
 # Le Web SNT Seconde
 
 Bienvenu sur le sommaire du Chapitre Web de SNT
