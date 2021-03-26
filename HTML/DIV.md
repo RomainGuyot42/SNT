@@ -1,6 +1,6 @@
 # DIV
 
----
+
 Ceci est une explication ce n'est pas à faire dans le cours
 ---
 
