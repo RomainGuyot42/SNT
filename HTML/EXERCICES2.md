@@ -15,7 +15,7 @@ Maintenant nous allons ajouter un fond vert pour cela utiliser **background** : 
   
 Actualisez la page pour visualiser le résultat.  
 
-Ce vert n'est pas très lisible, pour rendre notre page plus lisible nous allons ajouter une div qui condiendra l'ensemble de notre page.
+Ce vert n'est pas très lisible, pour rendre notre page plus lisible nous allons ajouter une div qui contiendra l'ensemble de notre page.
 
 Pour rappel il faut d'abord créer la div dans notre page HTML pour pouvoir l'appelr dans notre page CSS  
 
