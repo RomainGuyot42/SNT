@@ -4,7 +4,7 @@
 Ceci est une explication ce n'est pas à faire dans le cours
 ---
 
-La balise ```` <div> ```` est une balise qui sert a créer des bloc de contenue dans notre page HTML, cette balises ne vas pas rajouter du contenu mais elle vas permetre de mettre en forme notre page grâce à notre page CSS,
+La balise ```` <div> ```` est une balise qui sert a créer des bloc de contenue dans notre page **HTML**, cette balises ne vas pas rajouter du contenu mais elle vas permetre de mettre en forme notre page grâce à notre page CSS,
 exemple :  
 
 ````html 
