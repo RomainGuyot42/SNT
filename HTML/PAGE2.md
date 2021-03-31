@@ -30,7 +30,7 @@ Morphologie
 
 La harpie féroce peut mesurer jusqu'à un mètre, avec une envergure pouvant dépasser les deux mètres, et un poids compris entre quatre et neuf kilogrammes2. Son espérance de vie est d'environ 40 ans3. Le dessus du poitrail est noirâtre et contraste avec la couleur blanche située juste en dessous. Sa tête blanche est surmontée d'une crête érectile noirâtre sur l'occiput4. Son bec bleu-noir est extrêmement puissant, tout comme ses pattes jaunes, dont le dessus est strié de bandes noires et dont la griffe du doigt postérieur peut atteindre six centimètres. Ses ailes sont longues et arrondies5. La harpie féroce est considérée comme le plus grand aigle d'Amérique du Sud. Les harpies féroces mesurent de 86,5 à 107 cm et possèdent une envergure de 176 à 224 cm. Parmi les mensurations standard de cet oiseau, la corde de l’aile mesure 54-63 cm, la queue mesure 37-42 cm, le tarse a une longueur de 11,4-13 cm et la taille du culmen est de 4,2 à 6,5 cm.
 
-Faites maintenant le lien avec votre page css pour que la mise en forme se fasse 
+Faites maintenant le lien avec votre page css pour que la mise en forme se fasse : [Lien avec Page CSS](./INTRO_CSS.md)
 
 Pour que celle-ci soit correct il vous faut Dans page2.html rajoutez la div avec pour id contenu
 
