@@ -3,10 +3,11 @@
 Pour faire une nouvelle page, dans Notepad++ allez dans File, New (ou Fichier nouveau), engregistrez la page dans le dossier site_web (Save As, ou Enregistrersous), et donnez lui pour nom ````page2.html````. 
 Vous pouvez maintenant lui rajouter le code minumum que vous pouvez retrouvez ici : [code Minimum](./MINI.md)
 
-
 Nous allons maintenant ajouter du contenu à notre page :
 
-## Rajoutez comme titre principale :
+modifier le titre de la page avec Page sur la Harpie féroce
+
+## Rajoutez comme titre de première importance :
 
 Harpie féroce
 
