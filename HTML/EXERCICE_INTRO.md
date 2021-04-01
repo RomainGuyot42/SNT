@@ -4,8 +4,8 @@ Nous allons faire une première page pour comprendre les bases du code html
 
 Ouvrez Notepad++
 faites une nouvelle page (fichier -> nouveau)
-Enregistrez la page, pour cela créer un dossier *site_Web* dans votre dossier perso (eleve -> votre nom ...), puis enregistrez avec pour nom  
-**index.html**  
+Enregistrez la page, pour cela créer un dossier *site_web* dans votre dossier perso (eleve -> votre nom ...), puis enregistrez avec pour nom  
+**test.html**  
 ouvrer la page dans votre navigateur. Pour cela rendez-vous dans le dossier site_Web et double cliquez sur le fichier index.html
   
 Ajouter le code minimum vu précédemment  
