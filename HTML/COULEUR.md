@@ -11,6 +11,8 @@ D'autres couleurs sont également disponible, pour cela rendez-vous sur le site 
 
 [https://htmlcolorcodes.com/fr/](https://htmlcolorcodes.com/fr/)
 
+Copier le code de la couleur que vous avez choisi (entourer en rouge dans l'image suivante)
+
 ![image](./couleurHTML.PNG)
 
 # [Suite : Les listes](LISTE.md)
