@@ -1,6 +1,6 @@
 # Exercice 
 
-Nous allons faire une première page pour comprendre les concepts du code html
+Nous allons faire une première page pour comprendre les bases du code html
 
 Ouvrez Notepad++
 faites une nouvelle page (fichier -> nouveau)
