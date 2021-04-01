@@ -11,5 +11,6 @@ D'autres couleurs sont également disponible, pour cela rendez-vous sur le site 
 
 [https://htmlcolorcodes.com/fr/](https://htmlcolorcodes.com/fr/)
 
+![image](./couleurHTML.PNG)
 
 # [Suite : Les listes](LISTE.md)
