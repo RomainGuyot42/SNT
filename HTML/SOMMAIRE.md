@@ -9,6 +9,8 @@ Chapitre 1 : HTML
 - [Code Minimum](./MINI.md)
   
 - [Explication code minimum](./BASE.md)
+
+- [Exercices Intro](EXERCICE_INTRO.md)
   
 - [Exercices 1](EXERCICES1.md)  
    
