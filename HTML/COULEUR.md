@@ -15,4 +15,12 @@ Copier le code de la couleur que vous avez choisi (entourer en rouge dans l'imag
 
 ![image](./couleurHTML.PNG)
 
+Vous pouvez avec ce code modifier toutes les couleurs de votre site de la façon suivante 
+
+````
+h1{
+  color : #FF5733;
+}
+````
+
 # [Suite : Les listes](LISTE.md)
