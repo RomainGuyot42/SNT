@@ -66,7 +66,7 @@ L'Amazonie est souvent présentée comme l'une des forêts primaires portant le 
   
 avec "la répartition des arbres" en gras  
   
-- un autre sous titre 
+- un titre quatrième importance 
 
 Déforestation
 
