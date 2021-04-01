@@ -1,5 +1,7 @@
 # Exercice 
 
+Nous allons faire une première page pour comprendre les concepts du code html
+
 Ouvrez Notepad++
 faites une nouvelle page (fichier -> nouveau)
 Enregistrez la page, pour cela créer un dossier *site_Web* dans votre dossier perso (eleve -> votre nom ...), puis enregistrez avec pour nom  
