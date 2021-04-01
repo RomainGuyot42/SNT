@@ -23,4 +23,4 @@ La balise <head> est l'endroit où les choses sont stockés . Telles que les mé
 Les balises <body> contiennent toutes les informations qui seront rendues dans le navigateur (l'information de la page). 
 
 ---
-# [EXERCICE](./EXERCICES1.md)
+# [EXERCICE](./EXERCICE_INTRO.md)
