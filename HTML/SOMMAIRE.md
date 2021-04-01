@@ -34,6 +34,8 @@ Chapitre 3 : Aller plus loin
 
 - [Ajouter des page à votre site](PAGE2.md)
 
+- [Les Couleurs](COULEUR.md)
+
 - [Les listes](LISTE.md)
 
 - [Les métadonnées](META.md)
