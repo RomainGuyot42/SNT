@@ -2,7 +2,7 @@
 
 Maintenant que nous avons vu les bases nous allons pouvoir commencer notre page
 
-Pour cela faite une nouvelle page avec Notepad++ (fichier -> nouveau). Enregistrez la page dans votre dossier site_web,avec pour nom index.html
+Pour cela faite une nouvelle page avec Notepad++ (fichier -> nouveau). Enregistrez la page dans votre dossier site_web, avec pour nom index.html
 
 Dans cette page ajouter le code minimum [Code minimum](./MINI.md)
 
