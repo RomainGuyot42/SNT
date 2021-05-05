@@ -1,0 +1,45 @@
+h1{
+  color: red;
+}
+
+body{
+	text-align: center;
+	align-content: center;
+	background: green;
+}
+
+#contenu{
+	width:80%;
+	margin: auto;
+	background: white;
+	padding: 3%;
+}
+
+img{
+	width: 80%;
+}
+
+#paragraphe_un{
+	width: 80%;
+	background: grey;
+	margin: auto;
+	padding: 1%;
+	
+}
+
+p{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+h2{
+	 color: orange;
+}
+
+h3{
+	 color: red;
+}
+
+h4{
+	 color: orange;
+}
