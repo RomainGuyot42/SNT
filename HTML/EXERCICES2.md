@@ -73,10 +73,8 @@ Bordure
 Une bordure est une ligne qui encadre un élément
 Rajouter une ````<div> ```` sur le second paragraphe avec pour nom **paragraphe_deux** et rajoutez une bordure avec ```` border: 1px solid black; ````
 
-Laisse parler ta créativité 
----
+Voici une image pour mieux visualiser les bordure, marge et le padding
 
-Améliore le site pour qu'il soit à ton goût, n'hésite pas à faire des recherche sur le web pour t'aider
-
+![image](./margin-padding.png)
 
 # [Allez plus loin](./COMMENTAIRES.md)
