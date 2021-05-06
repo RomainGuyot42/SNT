@@ -1,6 +1,6 @@
 # Ajouter des page dans votre site
 
-Pour faire une nouvelle page, dans Notepad++ allez dans File, New (ou Fichier nouveau), engregistrez la page dans le dossier site_web (Save As, ou Enregistrersous), et donnez lui pour nom ````page2.html````. 
+Pour faire une nouvelle page, dans Notepad++ allez dans File, New (ou Fichier nouveau), engregistrez la page dans le dossier site_web (Save As, ou Enregistrersous), et donnez lui pour nom ````page2.html```` 
 Vous pouvez maintenant lui rajouter le code minumum que vous pouvez retrouvez ici : [code Minimum](./MINI.md)
 
 Nous allons maintenant ajouter du contenu à notre page :
